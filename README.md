@@ -47,3 +47,4 @@ To run the bot:
 4. Execute the cell to run the bot.
 
 Before running the bot, ensure to thoroughly review and understand the code, especially if using it for live trading. Incorrect configurations or logic errors could lead to financial losses. Implement appropriate risk management strategies.
+
