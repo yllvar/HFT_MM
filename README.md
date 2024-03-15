@@ -41,7 +41,7 @@ The bot's trading strategy involves:
 ## How to Run ▶️
 
 To run the bot:
-1. Install required Python libraries: ccxt, pandas, dotenv.
+1. Install required Python libraries: ccxt, pandas, dotenv from requirements.txt
 2. Set up environment variables (API_KEY, SECRET_KEY, PASSPHRASE) with your Kucoin API credentials.
 3. Copy and paste the code into a Jupyter Notebook cell.
 4. Execute the cell to run the bot.
